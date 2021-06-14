@@ -1,0 +1,29 @@
+body {
+    background-color: blue;
+    font-family: 'poppins', sans-serif;
+    margin: 0;
+}
+
+header {
+    text-align: center;
+    color: white;
+}
+
+.container {
+    display: block;
+    text-align: center;
+    color: white;
+}
+
+.img1 {
+    width: 50%;
+}
+
+p {
+    font-size: 32px;
+    background-color: black;
+}
+
+h1 {
+    text-transform: uppercase;
+}
